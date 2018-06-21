@@ -6,7 +6,7 @@ Use programmatic means to compile and deploy a smart contract to Ethereum Ganach
 
 ## Installation
 
-* Download and install NodeJS 10.14.x http://nodejs.org
+* Download and install Node.js 10.x.x http://nodejs.org
 
 ## Required npm Packages
 
