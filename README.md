@@ -1,6 +1,6 @@
 # Solidity 101 BlockchainNYC.io Session
 
-Use programmatic means to compile and deploy a smart contract to Ethereum Ganache, Rinkeby and mainnet. Uses little to no scaffolding code. 
+From http://blockchainnyc.io Solidity session June 19th, 2018 at Rise NYC. We use pure programmatic means to compile and deploy a smart contract to Ethereum Ganache, Rinkeby and mainnet. Uses little to no scaffolding code, zero tools. 
 
 # Setup
 
